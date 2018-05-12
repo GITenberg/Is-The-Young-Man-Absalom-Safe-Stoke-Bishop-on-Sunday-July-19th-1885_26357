@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31940'
     url: http://www.gutenberg.org/2009/agents/31940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26357#Is-The-Young-Man-Absalom-Safe-Stoke-Bishop-on-Sunday-July-19th-1885
 gutenberg_issued: '2008-08-19'
 gutenberg_type: Text
 identifiers:
