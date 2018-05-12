@@ -1,0 +1,25 @@
+_repo: Is-The-Young-Man-Absalom-Safe-Stoke-Bishop-on-Sunday-July-19th-1885_26357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, David
+    gutenberg_agent_id: '31940'
+    url: http://www.gutenberg.org/2009/agents/31940
+description: ''
+gutenberg_issued: '2008-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sermons, English'
+title: "Is the Young Man Absalom Safe?\r\nA Sermon Preached in the Church of St. Mary\
+  \ Magdalene, Stoke Bishop, on Sunday, July 19th, 1885"
+url: http://www.gutenberg.org/ebooks/26357
